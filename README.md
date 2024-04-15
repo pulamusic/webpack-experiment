@@ -1,8 +1,6 @@
----
 >Jim Carroll
 >pulamusic@gmail.com
 >04/15/2024
----
 
 # Experimenting with Webpack setup
 
