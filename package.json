@@ -17,7 +17,7 @@
     "handlebars": "^4.7.8",
     "jquery": "^3.7.1",
     "material": "^0.9.9",
-    "puppeteer": "^22.6.5",
+    "puppeteer": "^22.11.2",
     "sass": "^1.75.0"
   }
 }
